@@ -211,8 +211,8 @@ export default function AdmissionsForm() {
             {/* 📝 उजवा कॉलम: रिअल टाईम कनेक्टेड गुगल फॉर्म */}
             <div className="lg:col-span-7 p-8 md:p-12 bg-white dark:bg-slate-950 flex flex-col justify-center">
               <div className="mb-6">
-                <span className="text-xs uppercase tracking-widest font-bold text-sky-600 block mb-1">Direct Submission</span>
-                <h4 className="text-2xl font-black text-slate-900 dark:text-white">Profile Details & Course Enrollment</h4>
+                <span className="text-xs uppercase tracking-widest font-bold text-sky-600 block mb-1"> Student Admission Form</span>
+                {/* <h4 className="text-2xl font-black text-slate-900 dark:text-white">Profile Details & Course Enrollment</h4> */}
               </div>
 
               {/* तुमच्या नवीन लिंकनुसार कॉन्फिगर केलेला मुख्य फॉर्म ॲक्शन */}

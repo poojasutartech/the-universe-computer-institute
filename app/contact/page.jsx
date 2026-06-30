@@ -74,7 +74,7 @@ export default function ContactPage() {
         </div>
         <div className="relative max-w-6xl mx-auto px-4 md:px-8 text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-4">
-            Get in <span className="gradient-text">Touch</span>
+            Contact <span className="gradient-text">Us</span>
           </h1>
           <p className="text-lg text-foreground/70 max-w-2xl mx-auto">
             We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
@@ -203,7 +203,7 @@ export default function ContactPage() {
 <section className="section-padding bg-white dark:bg-blue-950/30">
   <div className="max-w-7xl mx-auto">
     <h2 className="text-4xl font-bold text-center gradient-text mb-12">
-      Institute Feedback Hub
+      Feedback Form
     </h2>
 
     <div className="grid grid-cols-1 lg:grid-cols-12 gap-0 rounded-2xl overflow-hidden shadow-2xl border-2 border-emerald-500/20 dark:border-slate-800 bg-white dark:bg-slate-900">
@@ -247,7 +247,7 @@ export default function ContactPage() {
       <div className="lg:col-span-7 p-8 md:p-12 flex flex-col justify-center bg-white dark:bg-slate-950">
         <div className="mb-8">
           <span className="text-xs uppercase tracking-widest font-bold gradient-text block mb-1">Student Review Portal</span>
-          <h4 className="text-4xl font-black text-slate-900 dark:text-white tracking-tight">Get in touch with reviews</h4>
+          {/* <h4 className="text-4xl font-black text-slate-900 dark:text-white tracking-tight">Contact with reviews</h4> */}
         </div>
         
         {/* 🔗 गुगल फॉर्मची मुख्य सबमिशन ॲक्शन लिंक */}

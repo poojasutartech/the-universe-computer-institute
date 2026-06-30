@@ -27,7 +27,7 @@ export default function Navbar() {
     { href: '/', label: 'Home' },
     { href: '/about', label: 'About' },
     { href: '/courses', label: 'Courses' },
-    { href: '/gallery', label: 'Gallery' },
+    // { href: '/gallery', label: 'Gallery' },
     // { href: '/career', label: 'Career' },
     { href: '/admissions', label: 'Admissions' },
     { href: '/contact', label: 'Contact' },

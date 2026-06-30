@@ -830,16 +830,16 @@ export default function CourseDetailPage() {
         </div>
 
         <div className="relative max-w-7xl mx-auto px-4 md:px-8">
-          
-          <button 
-            onClick={() => router.push('/courses')} 
-            className="inline-flex items-center gap-2 text-sm font-semibold text-sky-600 mb-6 hover:text-sky-700 transition-colors"
-          >
-            <ChevronLeft className="w-4 h-4" /> Back to Learning Matrix
-          </button>
+  
+        <button 
+          onClick={() => router.push('/courses')} 
+          className="inline-flex items-center gap-2 text-sm font-semibold text-sky-600 mb-6 hover:text-sky-700 transition-colors"
+        >
+          <ChevronLeft className="w-4 h-4" /> Back to Learning Matrix
+        </button>
 
-          
-            <div className="space-y-6 slide-up flex items-center">
+          {/* Changed 'flex items-center' to 'flex flex-col items-start' so contents stack beautifully on mobile */}
+          <div className="space-y-6 slide-up flex flex-col items-start">
               <div className="flex items-center gap-4">
                 <div className="p-3 bg-white dark:bg-slate-900 rounded-2xl shadow-xl text-sky-600">
                   {course.icon}
@@ -935,13 +935,13 @@ export default function CourseDetailPage() {
               </h3>
               <ul className="space-y-3">
                 {course.requirements.map((req, idx) => (
-                  <li key={idx} className="flex items-start gap-3 text-foreground/80 text-sm">
-                    <div className="w-1.5 h-1.5 rounded-full bg-sky-500 mt-1.5 flex-shrink-0" />
+                  <li key={idx} className="flex items-start gap-2 text-foreground/80 text-sm">
+                    <ChevronRight className="w-4 h-4 text-sky-500 mt-0.5 flex-shrink-0" />
                     <span>{req}</span>
                   </li>
                 ))}
               </ul>
-            </div>
+                          </div>
 
             <div className="glass p-6 rounded-2xl border border-sky-200 dark:border-sky-800 bg-white dark:bg-slate-800 shadow-sm">
               <h3 className="text-2xl font-bold mb-6 flex items-center gap-2 text-slate-900 dark:text-white">

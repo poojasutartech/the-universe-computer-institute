@@ -68,7 +68,7 @@ export default function HomePage() {
       <Navbar />
       
       {/* Hero Section with Banner Image */}
-      <section className="relative pt-20 pb-40 overflow-hidden">
+      <section className="relative pt-20 pb-20 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-light"></div>
         <div className="absolute top-20 right-10 w-96 h-96 bg-sky-400/30 rounded-full blur-3xl animate-pulse-slow"></div>
         <div className="absolute -bottom-20 left-10 w-96 h-96 bg-cyan-400/30 rounded-full blur-3xl animate-pulse-slow" style={{animationDelay: '1s'}}></div>
@@ -196,7 +196,7 @@ export default function HomePage() {
                     <p className="flex items-center gap-2">⏱️ {course.duration}</p>
                     {/* <p className="text-2xl font-bold gradient-text">{course.price}</p> */}
                   </div>
-                  <button className="w-full button-gradient mt-4 opacity-0 group-hover:opacity-100 transition-all transform -translate-y-2 group-hover:translate-y-0">
+                  <button className="w-full button-gradient mt-4 ">
                     View Details
                   </button>
                 </div>

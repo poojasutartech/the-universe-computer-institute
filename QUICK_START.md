@@ -21,7 +21,7 @@ Open the preview and navigate through:
 - 📖 **About** - Learn about the institute
 - 🎁 **Offers** - Special discounts and promotions
 - 📝 **Admissions** - Enrollment process and form
-- 💬 **Contact** - Get in touch with us
+- 💬 **Contact** - Contact us
 
 ---
 

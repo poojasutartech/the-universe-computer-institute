@@ -103,7 +103,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-2xl font-bold text-center text-foreground mb-2">Aditya Nalavade</h3>
               <p className="text-center text-sky-600 dark:text-sky-400 font-semibold mb-4">Founder & Director</p>
-              <p className="text-center text-brown-600 dark:text-brown-400 font-semibold mb-4">[ MBA  (Finance  & HR ) ]</p>
+              <p className="text-center founder-name font-semibold mb-4">[ MBA  (Finance  & HR ) ]</p>
               <p className="text-foreground/70 mb-4 text-center leading-relaxed">
                 Aditya brings 10+ years of experience in curriculum development and Teaching. She oversees all course design, ensuring content remains relevant to industry needs. Her background includes roles at leading tech companies and educational institutions.
               </p>

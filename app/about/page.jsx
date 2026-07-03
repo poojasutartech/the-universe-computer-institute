@@ -130,7 +130,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-2xl font-bold text-center text-foreground mb-2">Vishal Pawar</h3>
               <p className="text-center text-sky-600 dark:text-sky-400 font-semibold mb-4">Founder & Director</p>
-              <p className="text-center founder-name font-semibold mb-4">[ Diploma in mechanical engineering ]</p>
+              <p className="text-center founder-name font-semibold mb-4">[ Diploma in Mechanical Engineering ]</p>
               <p className="text-foreground/70 mb-4 text-center leading-relaxed">
                 With 5+ years of experience in IT education and industry, Vishal founded Universe Institute with a vision to make quality tech education accessible to everyone. His expertise spans web development, system architecture, and educational technology.
               </p>

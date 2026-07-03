@@ -103,6 +103,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-2xl font-bold text-center text-foreground mb-2">Aditya Nalavade</h3>
               <p className="text-center text-sky-600 dark:text-sky-400 font-semibold mb-4">Founder & Director</p>
+              <p className="text-center text-brown-600 dark:text-brown-400 font-semibold mb-4">[ MBA  (Finance  & HR ) ]</p>
               <p className="text-foreground/70 mb-4 text-center leading-relaxed">
                 Aditya brings 10+ years of experience in curriculum development and Teaching. She oversees all course design, ensuring content remains relevant to industry needs. Her background includes roles at leading tech companies and educational institutions.
               </p>
@@ -128,14 +129,15 @@ export default function AboutPage() {
                 </div>
               </div>
               <h3 className="text-2xl font-bold text-center text-foreground mb-2">Vishal Pawar</h3>
-              <p className="text-center text-sky-600 dark:text-sky-400 font-semibold mb-4">Co-Founder & Head of Curriculum</p>
+              <p className="text-center text-sky-600 dark:text-sky-400 font-semibold mb-4">Founder & Director</p>
+              <p className="text-center founder-name font-semibold mb-4">[ Diploma in mechanical engineering ]</p>
               <p className="text-foreground/70 mb-4 text-center leading-relaxed">
                 With 5+ years of experience in IT education and industry, Vishal founded Universe Institute with a vision to make quality tech education accessible to everyone. His expertise spans web development, system architecture, and educational technology.
               </p>
               <div className="pt-4 border-t border-sky-200 dark:border-slate-700">
                 <p className="text-sm font-semibold text-foreground mb-2">Specializations:</p>
                 <div className="flex flex-wrap gap-2">
-                  {['Web Development', 'IT Management', 'Training', 'Strategy'].map((spec) => (
+                  {['IT Management', 'Training', 'Strategy'].map((spec) => (
                     <span key={spec} className="badge-secondary text-xs">{spec}</span>
                   ))}
                 </div>

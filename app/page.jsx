@@ -81,12 +81,13 @@ export default function HomePage() {
                 <span className="badge-primary">Learn • Grow • Excel</span>
               </div>
               <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-                <span className="gradient-text">Transform Your</span>
+                Transform <span className="gradient-text">The Universe Computer Institute</span>
                 <br />
                 Career Today
               </h1>
               <p className="text-xl text-foreground/70 leading-relaxed">
-                Join houndreds of students who&apos;ve mastered in-demand skills at <strong className="text-foreground/70 text-lg gradient-text">The Universe Computer Institute </strong>  
+                Join houndreds of students who&apos;ve mastered in-demand skills at 
+                <strong className="text-foreground/70 text-lg gradient-text"> Our Institute </strong>  
                  Get industry-ready with professional certification programs.
               </p>
               

@@ -86,7 +86,7 @@ export default function Footer() {
         <div className="border-t border-slate-200/60 dark:border-white/10 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-foreground/50 text-sm">
-              © 2026 The Universe Computer Institute. All rights reserved.
+              © 2026 The Universe Computer Institute. All rights reserved. | Developed by <strong className="text-foreground/70 text-sm gradient-developer-name">Er. Pooja Sutar</strong>  
             </p>
             
             <div className="flex items-center gap-5">
@@ -109,14 +109,14 @@ export default function Footer() {
               </a>
 
               {/* LinkedIn */}
-              <a 
+              {/* <a 
                 href="https://www.linkedin.com/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-foreground/70 hover:text-cyan-500 transition-colors"
               >
                 <Linkedin className="w-5 h-5" />
-              </a>
+              </a> */}
 
               {/* Facebook */}
               {/* <a 

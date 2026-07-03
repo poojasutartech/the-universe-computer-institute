@@ -26,7 +26,7 @@ const courseDetails = {
     icon: <Keyboard className="w-12 h-12" />,
     description: 'Master typing speed and accuracy across English, Marathi, and Hindi layouts using dynamic evaluation software.',
     //
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Get unmatched speed and accurate positioning layouts required for competitive examinations and administrative office systems.',
     syllabus: [
@@ -56,7 +56,7 @@ const courseDetails = {
     icon: <Monitor className="w-12 h-12" />,
     description: 'Get essential computer literacy including system configurations, operations management, and platform architectures.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'An introductory guide covering basic computer operations, essential software layouts, and initial operating setups for modern jobs.',
     syllabus: [
@@ -88,7 +88,7 @@ const courseDetails = {
     icon: <Briefcase className="w-12 h-12" />,
     description: 'Deep dive into industry-standard productivity suites including advanced text processing and corporate worksheet calculations.',
     image: 'https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800&h=400&fit=crop',
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'The comprehensive professional package detailing text creation, advanced computational workflows, data modeling, and emailing.',
     syllabus: [
@@ -125,7 +125,7 @@ const courseDetails = {
     icon: <Calculator className="w-12 h-12" />,
     description: 'Master accounting logic systems, business financial journal entries, ledger mapping, and balance structures.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <ShieldCheck className="w-12 h-12 text-white" />,
     fullDescription: 'A thorough introduction connecting basic financial bookkeeping schemes directly to digital tools for immediate corporate use.',
     syllabus: [
@@ -158,7 +158,7 @@ const courseDetails = {
     icon: <Palette className="w-12 h-12" />,
     description: 'Learn physical arts, modeling dimensions, texturing systems, and organic pottery frameworks.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'An excellent expressive module that shapes fundamental hand coordination into production designs and art elements.',
     syllabus: [
@@ -193,7 +193,7 @@ const courseDetails = {
     icon: <Code className="w-12 h-12" />,
     description: 'Master core web layouts with markup architectures and fundamental procedural logic using C/C++ configurations.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Links interface design schemas to programming workflows. You will construct complete logic flows alongside markup frameworks.',
     syllabus: [
@@ -244,7 +244,7 @@ const courseDetails = {
     icon: <FileSpreadsheet className="w-12 h-12" />,
     description: 'Master complex data evaluation formulas, visual reporting dashboards, and macro language script systems.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Tailored for data professionals. Learn how to transform massive corporate spreadsheets using programmatic macro actions.',
     syllabus: [
@@ -277,7 +277,7 @@ const courseDetails = {
     icon: <Layers className="w-12 h-12" />,
     description: 'Master industrial compliance operations, tax auditing architectures, payroll setups, and multi-location logistics.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <ShieldCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Connect financial systems to national accounting statutory regimes. You will manage actual tax data logs and return files.',
     syllabus: [
@@ -310,7 +310,7 @@ const courseDetails = {
     icon: <Megaphone className="w-12 h-12" />,
     description: 'Master search optimizations, organic visibility setups, paid search engines ads, and marketing data loops.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Learn how to reach targeted demographics across top search engines, social media platforms, and optimization tools.',
     syllabus: [
@@ -363,7 +363,7 @@ const courseDetails = {
     icon: <BarChart3 className="w-12 h-12" />,
     description: 'Transform raw enterprise datalogs into production visualization models using custom M Language extraction schemas.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'A comprehensive engineering map covering extraction rules, multi-source schema joining, DAX programming, and secure distribution.',
     syllabus: [
@@ -407,7 +407,7 @@ const courseDetails = {
     icon: <Layout className="w-12 h-12" />,
     description: 'Master multi-platform creative layout architectures, advanced layer manipulations, vector paths, and print production setups.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'The comprehensive production sequence. You will build and optimize brand kits, marketing layout materials, and packaging files.',
     syllabus: [
@@ -458,7 +458,7 @@ const courseDetails = {
     icon: <Languages className="w-12 h-12" />,
     description: 'Master cloud-based document engineering, shared workplace systems, and collaborative automation utilities.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Learn how to utilize Google Workspace to work collaboratively, build shared tracking grids, and automate online forms.',
     syllabus: [
@@ -495,7 +495,7 @@ const courseDetails = {
     icon: <Users className="w-12 h-12" />,
     description: 'Boost conversational fluency, corporate communication skills, body language metrics, and theatrical presentations.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <ShieldCheck className="w-12 h-12 text-white" />,
     fullDescription: 'A dynamic behavioral program focused on professional expression, interactive speech architectures, and vocabulary development.',
     syllabus: [
@@ -532,7 +532,7 @@ const courseDetails = {
     icon: <Award className="w-12 h-12" />,
     description: 'Our ultimate flagship multi-discipline track bridging entire industrial Accounting pipelines with professional Creative Design.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'A comprehensive career masterclass explicitly engineered by our senior faculty to convert candidates into versatile software specialists.',
     syllabus: [
@@ -566,7 +566,7 @@ const comboDetails = {
     icon: <Layers className="w-12 h-12" />,
     description: 'An expansive professional diploma combining typing standards, automated bookkeeping, office software applications, and microcomputer assembly configurations.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'The ADCA bundle is our premier multi-disciplinary path designed to provide well-rounded commercial administrative skills. It covers system-level workflows alongside front-office compliance.',
     syllabus: [
@@ -595,7 +595,7 @@ const comboDetails = {
     icon: <Calculator className="w-12 h-12" />,
     description: 'Engineered specifically for rapid database operations, record checking, and optimized ledger tracking configurations.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'This specialized combination package enables high-speed keyboard parameters alongside structural worksheet computation matrices, mapping directly to modern financial data entry careers.',
     syllabus: [
@@ -623,7 +623,7 @@ const comboDetails = {
     icon: <BarChart3 className="w-12 h-12" />,
     description: 'Advanced business data bundle focused on connecting raw financial audit sheets directly to interactive reporting dashboards.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <ShieldCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Transform traditional bookkeeping into active business intelligence. This package targets corporate analysts who compile advanced visual dashboard models.',
     syllabus: [
@@ -652,7 +652,7 @@ const comboDetails = {
     icon: <Languages className="w-12 h-12" />,
     description: 'Dual productivity platform architecture bridging local software programs with cloud infrastructure operations.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Master modern co-working environments. Learn to deploy spreadsheets, document text layouts, online maps, and secure backup parameters.',
     syllabus: [
@@ -680,7 +680,7 @@ const comboDetails = {
     icon: <Layout className="w-12 h-12" />,
     description: 'Complete commercial vector designing, publishing, and localized script advertising typography layout pipeline.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'This framework links language typesetting paths with creative media layout software to prepare students for printing presses and digital agency jobs.',
     syllabus: [
@@ -709,7 +709,7 @@ const comboDetails = {
     icon: <Layers className="w-12 h-12" />,
     description: 'Accelerated basic business package combining typing mechanics with fundamental double-entry Tally software environments.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <ShieldCheck className="w-12 h-12 text-white" />,
     fullDescription: 'An efficient fast-track program designed for business owners or accountants seeking swift company transaction ledger setups.',
     syllabus: [
@@ -737,7 +737,7 @@ const comboDetails = {
     icon: <Monitor className="w-12 h-12" />,
     description: 'Core Desktop Publishing pipeline built for local agency media printing configurations.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Learn custom text layouts, vector advertisements mapping, card printing margins, and localized documentation operations.',
     syllabus: [
@@ -764,7 +764,7 @@ const comboDetails = {
     icon: <Palette className="w-12 h-12" />,
     description: 'Studio workspace processing package focusing on digital pixel manipulation, image retouch templates, and layout typing files.',
    
-    instructor: 'Aditya Nalawade',
+    instructor: 'Aditya Nalavade',
     instructorIcon: <UserCheck className="w-12 h-12 text-white" />,
     fullDescription: 'Master color grading, masking layers, wedding album configurations, and professional documentation templates setup.',
     syllabus: [

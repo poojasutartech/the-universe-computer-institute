@@ -21,7 +21,7 @@ export default function AboutPage() {
         </div>
         <div className="relative max-w-6xl mx-auto section-px text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-4">
-            About <span className="gradient-text">Universe</span> Institute
+            About <span className="gradient-text">The Computer Universe</span> Institute
           </h1>
           <p className="text-lg text-foreground/70">
             Transforming careers through excellence in computer education
@@ -94,10 +94,14 @@ export default function AboutPage() {
             <div className="card-glow p-8 hover-lift">
               <div className="mb-6 flex justify-center">
                 <div className="w-60 h-60 rounded-full bg-gradient-main flex items-center justify-center text-white text-4xl font-bold">
-                  PS
+                  <img 
+                src="/images/woman.png" 
+                alt="Our Institute"
+                className="w-full h-full object-cover"
+              />
                 </div>
               </div>
-              <h3 className="text-2xl font-bold text-center text-foreground mb-2">Aditya Nalawade</h3>
+              <h3 className="text-2xl font-bold text-center text-foreground mb-2">Aditya Nalavade</h3>
               <p className="text-center text-sky-600 dark:text-sky-400 font-semibold mb-4">Founder & Director</p>
               <p className="text-foreground/70 mb-4 text-center leading-relaxed">
                 Aditya brings 10+ years of experience in curriculum development and Teaching. She oversees all course design, ensuring content remains relevant to industry needs. Her background includes roles at leading tech companies and educational institutions.
@@ -116,10 +120,14 @@ export default function AboutPage() {
             <div className="card-glow p-8 hover-lift">
               <div className="mb-6 flex justify-center">
                 <div className="w-60 h-60  rounded-full bg-gradient-main flex items-center justify-center text-white text-4xl font-bold">
-                  RS
+                  <img 
+                src="/images/man.png" 
+                alt="Our Institute"
+                className="w-full h-full object-cover"
+              />
                 </div>
               </div>
-              <h3 className="text-2xl font-bold text-center text-foreground mb-2">Vishal Patil</h3>
+              <h3 className="text-2xl font-bold text-center text-foreground mb-2">Vishal Pawar</h3>
               <p className="text-center text-sky-600 dark:text-sky-400 font-semibold mb-4">Co-Founder & Head of Curriculum</p>
               <p className="text-foreground/70 mb-4 text-center leading-relaxed">
                 With 5+ years of experience in IT education and industry, Vishal founded Universe Institute with a vision to make quality tech education accessible to everyone. His expertise spans web development, system architecture, and educational technology.
